@@ -1,4 +1,4 @@
-package com.github.Telegrambot.TestTelegramBot.jrtb;
+package com.github.Telegrambot.TestTelegramBot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
