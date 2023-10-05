@@ -37,6 +37,7 @@ public class BotFunc extends TelegramLongPollingBot {
 
             String chatId = update.getMessage().getChatId().toString();
             String message = update.getMessage().getText();
+
             SendMessage sm = new SendMessage();
 
             sm.setChatId(chatId);
